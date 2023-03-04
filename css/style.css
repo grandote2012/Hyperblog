@@ -1,10 +1,17 @@
 body{
-    text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
-h1{
-    color: blue;
+.container{
+    border: 1px solid grey;
+    text-align: left;
 }
-p{
+.container h1{
+    padding: 20px;
+    box-sizing: border-box;
+    color: blue;
+    font-weight: bold;
+}
+.container p{
     color: green;
+    text-align: center;
 }
