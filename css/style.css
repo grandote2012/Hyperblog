@@ -41,3 +41,14 @@ body{
     height: 50px;
     padding: 0 20px 0 0;
 }
+.footer-container{
+    height: 50px;
+    background-color: rgb(5, 5, 105);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer-container .texto-footer{
+    color: white;
+    font-size: 1.6rem;
+}
